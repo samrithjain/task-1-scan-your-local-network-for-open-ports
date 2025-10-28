@@ -1,4 +1,4 @@
-# scan-your-local-network-for-open-ports-
+# task-1 scan-your-local-network-for-open-ports-
 cyber security internship at elevate labs
 ## Task-1-Open-Port-Scanning 
 cyber security internship 
